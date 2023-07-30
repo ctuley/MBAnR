@@ -1,0 +1,35 @@
+# About the Authors
+
+Meet the Spartans!
+
+## Cody Campbell
+
+About me: Cody Campbell is from Birmingham, Michigan. He studied Business Analytics & Technology at Trinity University (San Antonio) along with a minor in Sports Management. He has lived in 5 different states: Texas, New Jersey, Michigan, Florida, Louisiana. Cody played football starting in 5th grade but had to stop after his junior year of undergrad due to a shoulder injury. His senior year he helped his college team as a special teams analyst/assistant. He would find trends and key stats for opponents such as average kick distance, time, location, common tacklers, etc. This past year he worked as an intern for the Detroit Lions' Football Information staff. For fun, Cody likes to play recreational sports and watch movies.
+
+![](images/MJB_1673.jpg)
+
+## Remy Fischer
+
+Remy Fischer is from Brighton, Michigan. He studied supply chain management at Michigan State University and worked as a research fellow for three years while there. He published a whitepaper about 5G technology in Tech Next magazine, wrote multiple articles about supply chain related topics, and helped various graduate students work on their doctoral thesises. He hopes to combine his passions for business analytics and supply chain management into a career in supply chain analytics.
+
+![](images/Professional%20Headshot.jpeg)
+
+## Tyler James Phillips
+
+Tyler James Phillips is a dual degree graduate student at the University of Michigan studying Business Analytics at the Ross School of Business and Big Data Analytics at the School of Information. Tyler enjoys disc golfing, playing pick-up games of sports, and conversations around apologetics as well as professional audio.
+
+![](images/_MJB_1337-2%20version%202.jpg)
+
+## Arneet Singh
+
+Hello everyone my name is Arneet Singh, currently a MBAn at Michigan Ross. I graduated from Michigan State with a BA in Finance and minor in Information Technology. I am really passionate about helping others maybe why I chose to have an analytical background, to help businesses make informal decisions. During my free time I love playing basketball with my friends, listening to music, and reading books.
+
+![](images/MJB_1446.jpg)
+
+## Charlie Tuley
+
+Charlie Tuley is from East Lansing, Michigan, and he studied Sport Management at the University of Michigan for undergrad. His passion for data analysis began through working with soccer data, which led to multiple positions working with professional soccer clubs (the San Jose Earthquakes) and media companies (Between the Posts, Mananging Madrid, Villarreal USA).
+
+Post-grad, Charlie is planning on working in the business analytics sphere, before moving back into sports after building up more experience.
+
+![](images/MJB_0568.jpg)

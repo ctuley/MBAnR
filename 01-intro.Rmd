@@ -1,5 +1,5 @@
 # Introduction
 
-The following document will evaluate the problems that students are (and will be facing) as artificial intelligence continues to play a more prominent role in society. We will take a more focused look at how business analytics students are to be affected by this "AI revolution," and what steps they need to take in the university classroom to prepare themselves for how AI will be integrated into the workplace. These recommendations will not just apply to the students though, as we will also discuss how educators can better develop their students into workers ready for the business world.
+This document evaluates problems that students are (and will be) facing as artificial intelligence continues to experience technological advances and play a more prominent role in society. We will take a more focused look at how business analytics students are to be affected by this "AI Revolution" and what steps they need to take in the university classroom to prepare themselves for how AI will get integrated into the workplace. However, these recommendations will not just apply to the students. We will also discuss how educators can better develop their students into workers ready for the changing business world.
 
 ![](images/IMG-1394.jpg)
